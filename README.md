@@ -7,4 +7,4 @@ for example, '1-20170325134657.jpg' corresponds to '1-20170325134657.mat', and t
 person in this image, where each row is the location[x,y]<br>
 <br>
 ![fig1](https://github.com/XMU-smartdsp/Beijing-BRT-dataset/blob/master/test/frame/1-20170506134847.jpg) ![fig1](https://github.com/XMU-smartdsp/Beijing-BRT-dataset/blob/master/test/frame/1-20170419093954.jpg)<br>
-![fig1](https://github.com/XMU-smartdsp/Beijing-BRT-dataset/blob/master/test/frame/2-20170506125608.jpg)
+![fig1](https://github.com/XMU-smartdsp/Beijing-BRT-dataset/blob/master/test/frame/2-20170506125608.jpg) ![fig1](https://github.com/XMU-smartdsp/Beijing-BRT-dataset/blob/master/test/frame/1-20170506161815.jpg)
